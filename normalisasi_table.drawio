@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T02:34:59.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MS-X3dQr8iDWE-gOsrHB" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T02:45:43.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5s8SouiN4Aiy13FBS-pk" version="22.1.7" type="github">
   <diagram name="Page-1" id="kBbhrOJurJT0HmkiyJ2V">
-    <mxGraphModel dx="1749" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1895" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="bpbYqcK5zOJnf0tQpgTc-12" value="potongan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1470" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bpbYqcK5zOJnf0tQpgTc-13" value="bea_kirim" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bpbYqcK5zOJnf0tQpgTc-13" value="id_transaksi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpbYqcK5zOJnf0tQpgTc-14" value="dp_po" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -134,20 +134,20 @@
         <mxCell id="bpbYqcK5zOJnf0tQpgTc-43" value="potongan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1470" y="330.18" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bpbYqcK5zOJnf0tQpgTc-44" value="bea_kirim" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bpbYqcK5zOJnf0tQpgTc-44" value="id_transaksi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1590" y="330.18" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpbYqcK5zOJnf0tQpgTc-45" value="dp_po" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="330.18" width="120" height="60" as="geometry" />
+          <mxGeometry x="1827" y="330.18" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpbYqcK5zOJnf0tQpgTc-46" value="tunai" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1830" y="330.18" width="120" height="60" as="geometry" />
+          <mxGeometry x="1947" y="330.18" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpbYqcK5zOJnf0tQpgTc-47" value="kredit&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1950" y="330.18" width="120" height="60" as="geometry" />
+          <mxGeometry x="2067" y="330.18" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpbYqcK5zOJnf0tQpgTc-48" value="b.transfer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2070" y="330.18" width="120" height="60" as="geometry" />
+          <mxGeometry x="2187" y="330.18" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpbYqcK5zOJnf0tQpgTc-51" value="no_rekening&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
@@ -1039,6 +1039,9 @@
         </mxCell>
         <mxCell id="GXvbKSVf6ufCUX1Tdscx-134" value="bea_kirim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvbKSVf6ufCUX1Tdscx-135" value="bea_kirim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
